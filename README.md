@@ -1,1 +1,1 @@
-# hairtale-image-dataset
+# image-dataset
